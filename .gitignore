@@ -1,0 +1,3 @@
+# Project exclude paths
+/loginclient/target/
+/loginserver/target/
